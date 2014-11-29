@@ -10,7 +10,7 @@
 +$_lang["current.release"] = "Versiunea curentă:";
 +$_lang["language"] = "Limbă";
 +$_lang["join"] = "Alăturați-vă";
-+$_lang["mainpage.join"] = "Alăturați-vă miilor de pasionați de camioane on-line!";
++$_lang["mainpage.join"] = "Alăturați-vă miilor pasionați de camioane on-line!";
 +$_lang["ts3.advertisement"] = "Interacțiune vocală cu alți conducatori auto - clicați pentru a vă alatura serverului TS3.";
 +$_lang["facebook.advertisement"] = "Ultimele știri de pe facebook..";
 +$_lang["registration.blocked"] = "Înregistrarea este blocată - lucrăm la câteva caracteristici care ne obligă să blocăm înregistrările. Vom debloca când vom face totul și vom putea publica noua versiune.";
@@ -51,9 +51,9 @@
 +$_lang["reminder.button"] = "Amintește-mi parola";
 +$_lang["reset.password"] = "Resetează parola";
 +$_lang["password.reminder.mail.title"] = "Cerere de reamintire a parolei.";
-+$_lang["password.reminder.content"] = "Salut.\n\nCineva de pe acest ip {0} a solicitat schimbarea parolei a contului ETS2MP.\n\nPentru a reseta parola faceţi clic pe acest link: {1}.\nDacă nu a-ți fost dumneavoastră ignorați acest e-mail.\n\nGreetings\nETS2MP Echipa";
++$_lang["password.reminder.content"] = "Salut.\n\nCineva de pe acest ip {0} a solicitat schimbarea parolei a contului ETS2MP.\n\nPentru a reseta parola faceţi clic pe acest link: {1}.\nDacă nu a-ți fost dumneavoastră ignorați acest e-mail.\n\nSalutări\nETS2MP Echipa";
 +$_lang["new.password.mail.title"] = "Parola nouă.";
-+$_lang["new.password.mail.content"] = "Salut.\n\nIt este noua parolă: {0}\n\n Amintiţi-vă să schimbați imediat după autentificare.\n\nGreetings\nETS2MP Echipa";
++$_lang["new.password.mail.content"] = "Salut.\n\nAsta este noua parolă: {0}\n\n Amintiţi-vă să schimbați imediat după autentificare.\n\nSalutări\nETS2MP Echipa";
 +$_lang["account.activated"] = "Contul dumneavoastră a fost activat cu succes.";
 +$_lang["unable.to.activate"] = "Nu se poate activa contul, cheia este incorectă sau contul este deja activat.";
 +$_lang["not.activated"] = "Contul dumneavoastră nu este încă activat.Dacă nu aveți mesajul de activare clicați <a href=\"index.php?action=resendActivation\">here</a> pentru a retrimite cheia de activare.";
@@ -63,7 +63,7 @@
 +$_lang["forgot.password.invalid.key"] = "Cheia de resetare a parolei este nevalidă.";
 +$_lang["activation.key.resent"] = "Noua cheie de activare a fost trimisă la adresa de e-mail.";
 +$_lang["activation.mail.title"] = "Contul ETS2MP a fost activat.";
-+$_lang["activation.mail.content"] = "Salut.\n\nThis este cheia ta de activare: {0}\n\nGreetings\nETS2MP Echipa";
++$_lang["activation.mail.content"] = "Salut.\n\nAsta este cheia ta de activare: {0}\n\nSalutări\nETS2MP Echipa";
 +$_lang["no.login"] = "Trebuie sa fi autentificat pentru a accesa acest site.";
 +$_lang["settings.saved.with.mail"] = "Contul a fost salvat. Verifică noua adresă de e-mail si activează contul din nou.";
 +$_lang["new.email.in.use"] = "Acest e-mail este deja folosit.";
@@ -80,7 +80,7 @@
 +$_lang["your.mail"] = "Adresa dumneavoastră de e-mail";
 +$_lang["content"] = "Conţinut";
 +$_lang["send"] = "Trimite";
-+$_lang["contact.message.sent"] = "Vă mulţumim pentru că ne-ați contacta. Vă rugăm să aşteptaţi răspunsul răspunsul nostru.";
++$_lang["contact.message.sent"] = "Vă mulţumim pentru că ne-ați contacta. Vă rugăm să aşteptaţi răspunsul nostru.";
 +$_lang["topic"] = "Subiect";
 +$_lang["contact.message.too.short"] = "Mesajul este prea scurt. Minim 10 caractere.";
 +$_lang["contact.topic.too.short"] = "Subiectul este prea scurt. Minim 10 caractere.";
