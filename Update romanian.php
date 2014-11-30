@@ -74,7 +74,7 @@
 +$_lang["old.password.does.not.match"] = "Parola veche nu corespunde.";
 +$_lang["settings.saved"] = "Contul a fost salvat.";
 +$_lang["invalid.old.password"] = "Parola veche este invalidă, imposibil de a salva contul.";
-+$_lang["no.password.change.forced"] = "Pentru a reseta parola trebuie să fiți deconectat.";
++$_lang["no.password.change.forced"] = "Pentru a reseta parola trebuie să fii deconectat.";
 +$_lang["password.reminder.edit.account"] = "Nu vă amintiți parola? Clicați <a href=\"index.php?page=resetPassword\">here</a>.";
 +$_lang["contact"] = "Contact";
 +$_lang["your.mail"] = "Adresa dumneavoastră de e-mail";
